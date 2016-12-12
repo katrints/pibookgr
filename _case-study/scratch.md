@@ -4,10 +4,9 @@ title: "scratch"
 header: no
 show_meta: false
 categories:
-  - case-study
-  - models
+ - case-study
+ - models
 tags:
-  - scratch
+- scratch
 ---
-
 {% include_relative cs-scratch.md %}
